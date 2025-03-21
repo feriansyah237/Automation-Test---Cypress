@@ -1,0 +1,52 @@
+[
+    {
+        "cmpny" : "IDK",
+        "street1" : "751 River Drive",
+        "street2" : "Copperas Cove",
+        "street3" : "TX 76522",
+        "city" : "Copperas Cove",
+        "regionid" : "Texas",
+        "postcode" : "76522",
+        "country" : "United States",
+        "telephone" : "086718673121"
+
+    },
+
+    {
+        "cmpny" : "IDC",
+        "street1" : "2 Roosevelt St.",
+        "street2" : "Dickinson",
+        "street3" : "TX 77539",
+        "city" : "Dickinson",
+        "regionid" : "Texas",
+        "postcode" : "77539",
+        "country" : "United States",
+        "telephone" : "086718673121"
+
+    },
+
+    {
+        "cmpny" : " ",
+        "street1" : "643 Bridge Rd.",
+        "street2" : "Houston",
+        "street3" : "TX 77089",
+        "city" : "Houston",
+        "regionid" : "Texas",
+        "postcode" : "77089",
+        "country" : "United States",
+        "telephone" : "086718673121"
+    },
+
+    {
+        "cmpny" : "xDD",
+        "street1" : " ",
+        "street2" : "Dallas",
+        "street3" : "TX 75216",
+        "city" : "Dallas",
+        "regionid" : "Texas",
+        "postcode" : "75216",
+        "country" : "United States",
+        "telephone" : "086718673121"
+    }
+
+]
